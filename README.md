@@ -9,7 +9,9 @@ Optimiza la movilidad urbana mediante el uso compartido de vehículos eléctrico
 
 2.Arquitectura de Microservicios
 
-Registro y login de Usuario.
+Registro de usuario. 
+
+Login de Usuario.
 
 Gestión de datos personales, licencias de conducir y documentos de identidad.
 
