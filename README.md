@@ -8,25 +8,33 @@ PROYECTO: ECO-RIDE
 Optimiza la movilidad urbana mediante el uso compartido de vehículos eléctricos. Resuelve la falta de transporte sostenible, permitiendo a los usuarios localizar vehículos cercanos, gestionar la carga de baterías para asegurar la viabilidad del trayecto y procesar cobros automáticos basados en la distancia y el impacto ambiental ahorrado.
 
 2.Arquitectura de Microservicios
+
  //BENJA(2.1_2.3)
+ 
   2.1 Registro de usuario. 
 
   2.2 Login de Usuario.
 
   2.3 Gestión de datos personales, licencias de conducir y documentos de identidad.
+  
  //VICTOR(2.4_2.6)
+ 
   2.4 Catálogo de vehículos, nivel de batería, modelo y estado técnico.
 
   2.5 Rastreo de coordenadas (Latitud/Longitud) en tiempo real de los autos activos.
 
   2.6 Orquestación de la solicitud: busca conductor, calcula ruta y gestiona el viaje.
+  
  //SERGIO(2.7_2.9)
+ 
   2.7 Calcula la tarifa dinámica según demanda, hora y tipo de vehículo.
 
   2.8 Manejo de billetera virtual, recarga de saldo y procesamiento del cobro post-viaje.
 
   2.9 Alertas o emails (Viaje confirmado, Conductor llegó, Recibo de pago).
+  
  //VEREMOS()
+ 
   2.10 Sistema de calificación (1-5 estrellas) y comentarios para conductores y pasajeros.
 
   2.11 Alertas de revisión técnica basadas en los kilómetros recorridos y salud de la batería.
