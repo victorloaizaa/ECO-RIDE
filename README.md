@@ -40,6 +40,7 @@ Optimiza la movilidad urbana mediante el uso compartido de vehículos eléctrico
   2.11 Alertas de revisión técnica basadas en los kilómetros recorridos y salud de la batería.
 
   2.12 MS-Usuario
+  
 3.Desacoplamiento y Comunicación
 
 Se utilizará API REST e  implementará el principio de base de datos independiente. Cada servicio tendrá su propia MARIADB. Ningún servicio puede acceder a tablas ajenas; la información se solicita mediante endpoints JSON.
